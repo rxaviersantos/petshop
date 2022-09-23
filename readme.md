@@ -11,5 +11,5 @@ Conceitos utilizados nesta aplicação:
 - Mensagem customizada de erro no balão do navegador.
 - Criar funções para validações customizadas do formulário.
 - Utilizar data attributes para trabalhar com JavaScript
-- Deixar a função de validação mais genérica para funcionar com qualquer input
-
+- Deixar a função de validação mais genérica para funcionar com qualquer input 
+- 
